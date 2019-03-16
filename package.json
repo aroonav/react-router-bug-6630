@@ -1,0 +1,21 @@
+{
+  "name": "react-router-bug-6630",
+  "version": "0.0.0",
+  "description": "Replication for React-router bug 6630",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.3.1",
+    "react-dom": "16.7.0",
+    "react": "16.7.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
